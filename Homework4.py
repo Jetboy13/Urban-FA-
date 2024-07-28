@@ -1,0 +1,6 @@
+name = input('Введите ваше любое время года в двух словах: ')
+print ((name) .lower())
+print ((name) .upper())
+print ((name) .replace(' ','' ))
+print(name [0])
+print(name [-1])
